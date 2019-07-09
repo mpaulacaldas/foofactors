@@ -1,0 +1,13 @@
+Package: foofactors
+Title: A Fake Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Maria Paula",
+           family = "Caldas",
+           role = c("aut", "cre"),
+           email = "mpaulacaldas@gmail.com")
+Description: A fake package, created during useR!2019.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
